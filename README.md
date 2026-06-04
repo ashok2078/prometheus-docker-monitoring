@@ -8,8 +8,10 @@ Docker-based Prometheus setup with Node Exporter.
 
 - **Docker** installed (Version 20.10+)
 - **Docker Compose** installed (Version 2.0+)
-- **Linux VM** (CentOS/RHEL/Ubuntu)
+- **Linux VM** (CentOS)
 - Minimum 2GB RAM, 10GB disk space
+- <img width="1345" height="679" alt="image" src="https://github.com/user-attachments/assets/e986ee05-4219-4f32-bbf1-c1f480720f4b" />
+
 
 **Check versions:**
 ```bash
