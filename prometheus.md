@@ -1,6 +1,8 @@
 ## Prometheus Monitoring Setup using Docker Compose ##
 ** This repository contains a professional setup for monitoring Linux host metrics using Prometheus and Node Exporter. **
-++ Prometheus is an open-source systems monitoring and alerting toolkit. In this project, it is configured to scrape hardware and OS metrics exposed by Node Exporter.
+++ Prometheus is an open-source systems monitoring and alerting toolkit. In this project, it is configured to scrape hardware and OS metrics exposed by Node <img width="1319" height="678" alt="image" src="https://github.com/user-attachments/assets/1b887387-3907-4cae-b6ac-d7ae73d748c9" />
+Exporter.
+
  Tech Stack
 
     Prometheus: Monitoring & Time-series database.
